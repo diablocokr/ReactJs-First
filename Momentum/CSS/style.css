@@ -1,0 +1,18 @@
+body {
+    background-color: beige;
+}
+
+
+#testid {color : red; }
+
+.threeDiv span {color : rgb(255, 212, 212); }
+.threeDiv h2 {color : rgb(52, 255, 11); }
+
+
+.fourDiv > span {color : rgb(255, 0, 0); }
+.fourDiv > h2 {color : rgb(0, 26, 255); }
+
+
+.hidden{
+    display: none;
+}
